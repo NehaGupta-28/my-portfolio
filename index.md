@@ -5,7 +5,10 @@
 ### Projects
 
 Remaining Phone Usage Time Prediction (09/2018 – 09/2018)(/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<br><br>
+Predicted the remaining time for which the mobile phone can be utilised.
+<br><br>
+<img src="images/LR.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
