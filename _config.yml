@@ -3,7 +3,7 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <p align="justify">Model student with a passion for learning and improving myself in the field of computer science.</p>
   <br><br>
-  Skills : C, C++, JAVA, Writing Skills, Team Leadership
+  <p align="justify">Skills : C, C++, JAVA, Writing Skills, Team Leadership</p>
   <br><br>
   <a href="https://www.linkedin.com/in/nehagupta28/">View My LinkedIn Profile</a> 
   
