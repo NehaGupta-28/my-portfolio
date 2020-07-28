@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Remaining Phone Usage Time Prediction (09/2018 – 09/2018)](/sample_page)
+Remaining Phone Usage Time Prediction (09/2018 – 09/2018)(/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
