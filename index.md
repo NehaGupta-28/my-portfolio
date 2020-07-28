@@ -4,19 +4,19 @@
 
 ### Projects
 
-Remaining Phone Usage Time Prediction (09/2018 – 09/2018)
+[Remaining Phone Usage Time Prediction (09/2018 – 09/2018)](https://drive.google.com/file/d/1hW1ULgCulneKcQWDOPK1tFEyHCXyY7FT/view)
 <br><br>
 Through the implementation of Linear Regression model of ML this project explores how the remaining usage time of a phone can be determined based on the current battery percentage .
 <br><br>
 
 
 ---
-MBTI Based Personality Prediction of a User Based on Their Writing on Social Media (08/2019 – 08/2019)
+[MBTI Based Personality Prediction of a User Based on Their Writing on Social Media (08/2019 – 08/2019)](https://www.ijeat.org/wp-content/uploads/papers/v9i1/A1523109119.pdf)
 <br><br>
 Personality of a person based on their MBTI was predicted using NLP and SVM.
 
 ---
-Semantic Segmentation of Roads Using Aerial Images Through a Deep Learning Model (01/2020 – 02/2020)
+[Semantic Segmentation of Roads Using Aerial Images Through a Deep Learning Model (01/2020 – 02/2020)](https://drive.google.com/file/d/1VcMOxfGexcs2fHKvsox2PuWVmYPWStqf/view?usp=sharing)
 <br><br>
 the model identifies roads from a satellite image.
 
